@@ -1,5 +1,4 @@
-import React from 'react';
-// Importamos a logo e a foto do mestre com o nome correto
+
 import logoMagno from '../assets/logo-magno.jpeg'; 
 import fotoMestre from '../assets/image_e4d163.png'; 
 
